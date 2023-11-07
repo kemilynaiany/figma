@@ -60,12 +60,10 @@ nav a:hover {
     opacity: 1;
   }
 }
-header {
- 
-}
 
 
-.principal{
+
+.principal {
   padding: 180px;
   display: flex;
   grid-gap: 100px;
