@@ -1,0 +1,65 @@
+.body{
+  font-family: Arial, sans-serif;
+  justify-content: center;
+  align-items: center;
+}
+
+header{
+  background-color: #d6ffac;
+  color: #000;
+  padding: 10px;
+  text-align: center;
+  animation: fadeIn 5s ease-in-out;
+  height: 40px;
+  margin-bottom: 220px;
+}
+
+nav ul{
+  list-style-type: nome;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  
+}
+nav li{
+  display: inline;
+  margin-right: 80px;
+  
+} 
+
+nav a{
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+  height: 40px;
+  transition: color 0.3s;
+}
+
+nav a:hover {
+  color: #ff6600;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opaciy: 0;
+  }
+}
+
+.item{
+  width: 400px;
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  justify-content: center; 
+}
+
+.container{
+  height: 340px;
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  justify-content: center; 
+}
