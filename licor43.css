@@ -56,6 +56,10 @@ nav a:hover {
   justify-content: center; 
 }
 
+.item .img {
+  width: 240px;
+  height: 300px;
+}
   
 .container{
   height: 340px;
