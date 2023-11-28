@@ -56,7 +56,7 @@ item{
   justify-content: center; 
 }
 
-item img{
+.item img{
   height: 50px;
   width: 100px;
 }
