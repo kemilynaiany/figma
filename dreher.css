@@ -48,7 +48,7 @@ nav a:hover {
   }
 }
 
-item {
+item{
   width: 350px;
   display: flex;
   flex-direction:column;
@@ -58,7 +58,7 @@ item {
 
 item img{
   height: 50px;
-  width: 100px:
+  width: 100px;
   
 
 container{
